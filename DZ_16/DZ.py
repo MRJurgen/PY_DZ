@@ -9,7 +9,7 @@ for i in range(quantity):
     if (my_list[i]==value_to_find):
         there_is+=1
 
-print(my_list)
+print(my)
 print(there_is)
 
 
